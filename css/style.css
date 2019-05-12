@@ -1,0 +1,9 @@
+.img-circle {
+	width: 150px;
+	height: 180px;
+	border-radius: 100%;
+}
+
+.card {
+	margin-bottom: 20px;
+}
